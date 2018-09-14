@@ -1,4 +1,4 @@
-# latinwordnet
+# Latin WordNet '2.0'
 A Python helper library for accessing and manipulating the Latin WordNet.
 
 ## BACKGROUND
