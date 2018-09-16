@@ -24,7 +24,7 @@ def connect(language, database):
 
 def compile(language, *tables):
     if not tables:
-        tables = [filename.split('_')[0].replace('.sql', '') for filename in listdir(f"../latinwordnet/latinwordnet/db/{language}/") if filename.endswith('.sql')]
+        tables = [filename.split('_')[1].replace('.sql', '') for filename in listdir(f"../latinwordnet/latinwordnet/db/{language}/") if filename.endswith('.sql')]
 
     for table in tables:
         f = codecs.open(f"../latinwordnet/latinwordnet/db/{language}/{language}_{table}.sql", encoding='utf-8')
