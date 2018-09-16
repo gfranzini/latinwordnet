@@ -27,7 +27,7 @@ To make full use of the semantic data that is included in the MultiWordNet, you 
 
 ### Basic usage
 ```
->>> from latinwordnet.wordnet import LatinWordNet
+>>> from latinwordnet.latinwordnet import LatinWordNet
 
 >>> LWN = LatinWordNet()
 >>> LWN.lemmas  # all the lemmas currently in the WordNet
