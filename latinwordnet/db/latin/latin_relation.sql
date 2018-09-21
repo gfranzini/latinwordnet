@@ -1694,9 +1694,9 @@ INSERT INTO latin_relation VALUES ('!','a#01062627','a#02553733','beneficus','ma
 INSERT INTO latin_relation VALUES ('!','a#02553733','a#01083652','beneficus','maleficus',NULL);
 INSERT INTO latin_relation VALUES ('!','a#02553733','a#01552949','beneficus','maleficus',NULL);
 INSERT INTO latin_relation VALUES ('!','a#01546264','a#01547119','borealis','australis',NULL);
-INSERT INTO latin_relation VALUES ('!','n#07822038','n#10884479','boreas','auster',NULL);
-INSERT INTO latin_relation VALUES ('!','n#07822038','n#07837471','boreas','auster',NULL);
-INSERT INTO latin_relation VALUES ('!','n#07822038','n#09965063','boreas','auster',NULL);
+INSERT INTO latin_relation VALUES ('!','n#07822038','n#10884479','Boreas','Auster',NULL);
+INSERT INTO latin_relation VALUES ('!','n#07822038','n#07837471','Boreas','Auster',NULL);
+INSERT INTO latin_relation VALUES ('!','n#07822038','n#09965063','Boreas','Auster',NULL);
 INSERT INTO latin_relation VALUES ('!','a#01821083','a#02273366','brevis','longus',NULL);
 INSERT INTO latin_relation VALUES ('!','a#00512104','a#02273366','brevis','longus',NULL);
 INSERT INTO latin_relation VALUES ('!','a#01336443','a#02273366','brevis','longus',NULL);
@@ -4237,9 +4237,9 @@ INSERT INTO latin_relation VALUES ('!','n#07123422','n#07567074','puer','vir',NU
 INSERT INTO latin_relation VALUES ('!','n#07123422','n#07392266','puer','vir',NULL);
 INSERT INTO latin_relation VALUES ('!','n#07123422','n#05957670','puer','vir',NULL);
 INSERT INTO latin_relation VALUES ('!','n#07123422','n#01967203','puer','vir',NULL);
-INSERT INTO latin_relation VALUES ('!','n#07822038','n#10884479','septentrio','auster',NULL);
-INSERT INTO latin_relation VALUES ('!','n#07822038','n#07837471','septentrio','auster',NULL);
-INSERT INTO latin_relation VALUES ('!','n#07822038','n#09965063','septentrio','auster',NULL);
+INSERT INTO latin_relation VALUES ('!','n#07822038','n#10884479','septentrio','Auster',NULL);
+INSERT INTO latin_relation VALUES ('!','n#07822038','n#07837471','septentrio','Auster',NULL);
+INSERT INTO latin_relation VALUES ('!','n#07822038','n#09965063','septentrio','Auster',NULL);
 INSERT INTO latin_relation VALUES ('!','a#01546264','a#01547119','septentrionalis','australis',NULL);
 INSERT INTO latin_relation VALUES ('!','n#03730047','n#03732325','similitudo','dissimilitudo',NULL);
 INSERT INTO latin_relation VALUES ('!','n#03730047','n#03731027','similitudo','dissimilitudo',NULL);
@@ -4564,7 +4564,6 @@ INSERT INTO latin_relation VALUES ('/','v#00071198','v#00457216','abdico','dedic
 INSERT INTO latin_relation VALUES ('/','v#01467965','v#00104604','abdo','addo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#01467965','v#00412665','abdo','condo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#01467965','v#00601722','abdo','dedo',NULL);
-INSERT INTO latin_relation VALUES ('/','v#01467965','n#06904889','abdo','dido',NULL);
 INSERT INTO latin_relation VALUES ('/','v#01467965','v#00079910','abdo','do',NULL);
 INSERT INTO latin_relation VALUES ('/','v#01467965','v#00038574','abdo','edo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#01467965','v#00128702','abdo','indo',NULL);
@@ -5781,8 +5780,8 @@ INSERT INTO latin_relation VALUES ('/','n#03881805','n#02754935','aurum','auratu
 INSERT INTO latin_relation VALUES ('/','n#07313163','v#01485853','auscultator','ausculto',NULL);
 INSERT INTO latin_relation VALUES ('/','v#01485853','n#07313163','ausculto','auscultator',NULL);
 INSERT INTO latin_relation VALUES ('\','n#00787413','n#07091627','auspicium','auspex',NULL);
-INSERT INTO latin_relation VALUES ('\','a#01547119','n#07837471','australis','auster',NULL);
-INSERT INTO latin_relation VALUES ('\','a#01547119','n#07837471','austrinus','auster',NULL);
+INSERT INTO latin_relation VALUES ('\','a#01547119','n#07837471','australis','Auster',NULL);
+INSERT INTO latin_relation VALUES ('\','a#01547119','n#07837471','austrinus','Auster',NULL);
 INSERT INTO latin_relation VALUES ('/','n#03659222','a#00010404','austeritas','austerus',NULL);
 INSERT INTO latin_relation VALUES ('\','n#07087094','v#00056138','auxiliator','auxilior',NULL);
 INSERT INTO latin_relation VALUES ('\','n#00782440','v#00056138','auxiliatus','auxilior',NULL);
@@ -5952,8 +5951,8 @@ INSERT INTO latin_relation VALUES ('/','a#00258473','a#00606022','bonus','bellus
 INSERT INTO latin_relation VALUES ('/','a#00258473','v#01238865','bonus','beo',NULL);
 INSERT INTO latin_relation VALUES ('\','n#05329393','v#00710581','boatus','boo',NULL);
 INSERT INTO latin_relation VALUES ('\','v#01495321','v#00710581','reboo','boo',NULL);
-INSERT INTO latin_relation VALUES ('/','a#01546264','n#07822038','borealis','boreas',NULL);
-INSERT INTO latin_relation VALUES ('\','a#01546264','n#07822038','borealis','boreas',NULL);
+INSERT INTO latin_relation VALUES ('/','a#01546264','n#07822038','borealis','Boreas',NULL);
+INSERT INTO latin_relation VALUES ('\','a#01546264','n#07822038','borealis','Boreas',NULL);
 INSERT INTO latin_relation VALUES ('\','a#02635189','n#01403710','bovillus','bos',NULL);
 INSERT INTO latin_relation VALUES ('\','a#02635189','n#01403710','bovinus','bos',NULL);
 INSERT INTO latin_relation VALUES ('\','a#02635189','n#01403710','bubulinus','bos',NULL);
@@ -6757,7 +6756,6 @@ INSERT INTO latin_relation VALUES ('\','v#00921958','v#00412665','recondo','cond
 INSERT INTO latin_relation VALUES ('/','v#00412665','v#01467965','condo','abdo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00412665','v#00104604','condo','addo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00412665','v#00601722','condo','dedo',NULL);
-INSERT INTO latin_relation VALUES ('/','v#00412665','n#06904889','condo','dido',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00412665','v#00079910','condo','do',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00412665','v#00038574','condo','edo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00412665','v#00128702','condo','indo',NULL);
@@ -7315,7 +7313,7 @@ INSERT INTO latin_relation VALUES ('\','r#00210879','v#00104604','cumulate','cum
 INSERT INTO latin_relation VALUES ('\','a#00014012','v#00104604','cumulatus','cumulo',NULL);
 INSERT INTO latin_relation VALUES ('\','r#00157495','v#00623049','cunctanter','cunctor',NULL);
 INSERT INTO latin_relation VALUES ('\','n#00687997','v#00623049','cunctatio','cunctor',NULL);
-INSERT INTO latin_relation VALUES ('/','v#00479841','n#06906372','cupio','cupido',NULL);
+INSERT INTO latin_relation VALUES ('/','v#00479841','n#06906372','cupio','Cupido',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00479841','a#00031053','cupio','cupidus',NULL);
 INSERT INTO latin_relation VALUES ('\','a#00303585','n#00385376','curiosus','cura',NULL);
 INSERT INTO latin_relation VALUES ('\','v#00056004','n#00385376','curo','cura',NULL);
@@ -7418,7 +7416,6 @@ INSERT INTO latin_relation VALUES ('\','n#00039842','v#00601722','deditio','dedo
 INSERT INTO latin_relation VALUES ('/','v#00601722','v#01467965','dedo','abdo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00601722','v#00104604','dedo','addo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00601722','v#00412665','dedo','condo',NULL);
-INSERT INTO latin_relation VALUES ('/','v#00601722','n#06904889','dedo','dido',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00601722','v#00079910','dedo','do',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00601722','v#00038574','dedo','edo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00601722','v#00128702','dedo','indo',NULL);
@@ -7739,7 +7736,6 @@ INSERT INTO latin_relation VALUES ('/','n#04902219','n#06243405','dictum','dicta
 INSERT INTO latin_relation VALUES ('/','n#04902219','n#05349662','dictum','dictio',NULL);
 INSERT INTO latin_relation VALUES ('/','n#04902219','v#00424940','dictum','dicto',NULL);
 INSERT INTO latin_relation VALUES ('/','n#04902219','n#05396749','dictum','dictus',NULL);
-INSERT INTO latin_relation VALUES ('/','n#06904889','v#00412665','dido','condo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00655894','v#00412665','dido','condo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#01073112','v#00059435','diduco','adduco',NULL);
 INSERT INTO latin_relation VALUES ('/','v#01073112','v#01756463','diduco','circumduco',NULL);
@@ -7922,7 +7918,6 @@ INSERT INTO latin_relation VALUES ('\','v#00412665','v#00079910','condo','do',NU
 INSERT INTO latin_relation VALUES ('\','n#07222682','v#00079910','dator','do',NULL);
 INSERT INTO latin_relation VALUES ('\','n#09545388','v#00079910','datum','do',NULL);
 INSERT INTO latin_relation VALUES ('\','v#00601722','v#00079910','dedo','do',NULL);
-INSERT INTO latin_relation VALUES ('\','n#06904889','v#00079910','dido','do',NULL);
 INSERT INTO latin_relation VALUES ('\','v#00038574','v#00079910','edo','do',NULL);
 INSERT INTO latin_relation VALUES ('\','v#00128702','v#00079910','indo','do',NULL);
 INSERT INTO latin_relation VALUES ('\','v#00505537','v#00079910','mando','do',NULL);
@@ -8084,7 +8079,6 @@ INSERT INTO latin_relation VALUES ('/','v#00038574','v#01467965','edo','abdo',NU
 INSERT INTO latin_relation VALUES ('/','v#00038574','v#00104604','edo','addo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00038574','v#00412665','edo','condo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00038574','v#00601722','edo','dedo',NULL);
-INSERT INTO latin_relation VALUES ('/','v#00038574','n#06904889','edo','dido',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00038574','v#00079910','edo','do',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00038574','v#00128702','edo','indo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00038574','v#00743671','edo','perdo',NULL);
@@ -9398,7 +9392,6 @@ INSERT INTO latin_relation VALUES ('/','v#00128702','v#01467965','indo','abdo',N
 INSERT INTO latin_relation VALUES ('/','v#00128702','v#00104604','indo','addo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00128702','v#00412665','indo','condo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00128702','v#00601722','indo','dedo',NULL);
-INSERT INTO latin_relation VALUES ('/','v#00128702','n#06904889','indo','dido',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00128702','v#00079910','indo','do',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00128702','v#00038574','indo','edo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00128702','v#00743671','indo','perdo',NULL);
@@ -11230,7 +11223,6 @@ INSERT INTO latin_relation VALUES ('/','v#00743671','v#01467965','perdo','abdo',
 INSERT INTO latin_relation VALUES ('/','v#00743671','v#00104604','perdo','addo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00743671','v#00412665','perdo','condo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00743671','v#00601722','perdo','dedo',NULL);
-INSERT INTO latin_relation VALUES ('/','v#00743671','n#06904889','perdo','dido',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00743671','v#00079910','perdo','do',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00743671','v#00038574','perdo','edo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00743671','v#00128702','perdo','indo',NULL);
@@ -11728,7 +11720,6 @@ INSERT INTO latin_relation VALUES ('/','v#00038574','v#01467965','prodo','abdo',
 INSERT INTO latin_relation VALUES ('/','v#00038574','v#00104604','prodo','addo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00038574','v#00412665','prodo','condo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00038574','v#00601722','prodo','dedo',NULL);
-INSERT INTO latin_relation VALUES ('/','v#00038574','n#06904889','prodo','dido',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00038574','v#00079910','prodo','do',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00038574','v#00038574','prodo','edo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00038574','v#00128702','prodo','indo',NULL);
@@ -12025,7 +12016,6 @@ INSERT INTO latin_relation VALUES ('/','v#00080274','v#01467965','reddo','abdo',
 INSERT INTO latin_relation VALUES ('/','v#00080274','v#00104604','reddo','addo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00080274','v#00412665','reddo','condo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00080274','v#00601722','reddo','dedo',NULL);
-INSERT INTO latin_relation VALUES ('/','v#00080274','n#06904889','reddo','dido',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00080274','v#00079910','reddo','do',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00080274','v#00038574','reddo','edo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00080274','v#00128702','reddo','indo',NULL);
@@ -13295,7 +13285,6 @@ INSERT INTO latin_relation VALUES ('/','v#00985935','v#01467965','trado','abdo',
 INSERT INTO latin_relation VALUES ('/','v#00985935','v#00104604','trado','addo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00985935','v#00412665','trado','condo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00985935','v#00601722','trado','dedo',NULL);
-INSERT INTO latin_relation VALUES ('/','v#00985935','n#06904889','trado','dido',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00985935','v#00079910','trado','do',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00985935','v#00038574','trado','edo',NULL);
 INSERT INTO latin_relation VALUES ('/','v#00985935','v#00128702','trado','indo',NULL);

@@ -137,7 +137,7 @@ INSERT INTO latin_morpho VALUES (474,'accusatio','n','accusation',NULL,NULL,'/ak
 INSERT INTO latin_morpho VALUES (476,'accusativus','a','accusativ accusativ accusativ',NULL,NULL,'[ak.kuː.saːˈtiː.wʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (477,'accusator','n','accusator',NULL,NULL,'/ak.kuːˈsaː.tor/','n-s---mn3-');
 INSERT INTO latin_morpho VALUES (490,'acer','n','acer',NULL,NULL,'[ˈaː.kɛr]','n-s---nn3-');
-INSERT INTO latin_morpho VALUES (492,'acer','a','ac acr acr',NULL,NULL,'[ˈaː.kɛr]','aps---mn3-');
+INSERT INTO latin_morpho VALUES (492,'acer','a','acr acr acr',NULL,NULL,'[ˈaː.kɛr]','aps---mn3-');
 INSERT INTO latin_morpho VALUES (495,'acerbo','v','acerb acerbav acerbat',NULL,NULL,'/aˈker.boː/','v1spia--1-');
 INSERT INTO latin_morpho VALUES (496,'acerbus','a','acerb acerb acerb',NULL,NULL,'[aˈkɛr.bʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (497,'acerbe','r','acerb',NULL,NULL,'[aˈkɛr.bɛ]','rp--------');
@@ -146,7 +146,7 @@ INSERT INTO latin_morpho VALUES (508,'acervus','n','acerv',NULL,NULL,'[aˈkɛr.w
 INSERT INTO latin_morpho VALUES (509,'acervo','v','acerv acervav acervat',NULL,NULL,'[aˈkɛr.woː]','v1spia--1-');
 INSERT INTO latin_morpho VALUES (513,'acervatio','n','acervation',NULL,NULL,NULL,'n-s---fn3-');
 INSERT INTO latin_morpho VALUES (517,'acetum','n','acet',NULL,NULL,'[aˈkeː.tũ]','n-s---nn2-');
-INSERT INTO latin_morpho VALUES (533,'Achates','n','Achat',NULL,NULL,'aˈkʰaː.teːs','n-s---mn3-');
+INSERT INTO latin_morpho VALUES (533,'Achates','n','Achat',NULL,NULL,'[aˈkʰaː.teːs]','n-s---mn3-');
 INSERT INTO latin_morpho VALUES (538,'Achilles','n','Achille',NULL,NULL,NULL,'n-s---mn3-');
 INSERT INTO latin_morpho VALUES (543,'acia','n','aci',NULL,NULL,NULL,'n-s---fn1-');
 INSERT INTO latin_morpho VALUES (544,'acies','n','aci',NULL,NULL,'/ˈa.ki.eːs/','n-s---fn5-');
@@ -527,16 +527,16 @@ INSERT INTO latin_morpho VALUES (2097,'aeterno','r',NULL,NULL,NULL,NULL,'rp-----
 INSERT INTO latin_morpho VALUES (2098,'aeternum','r',NULL,NULL,NULL,NULL,'rp--------');
 INSERT INTO latin_morpho VALUES (2101,'aether','n','aether',NULL,NULL,'/ˈae̯.tʰeːr/','n-s---mn3-');
 INSERT INTO latin_morpho VALUES (2103,'aetherius','a','aetheri aetheri aetheri',NULL,NULL,'[ae̯ˈtʰɛ.ri.ʊs]','aps---mn1-');
-INSERT INTO latin_morpho VALUES (2104,'aethiopia','n','aethiopi',NULL,NULL,NULL,'n-s---fn1-');
-INSERT INTO latin_morpho VALUES (2105,'aethiopicus','a',NULL,NULL,NULL,'[ae̯.tʰɪˈɔ.pɪ.kʊs]','aps---mn1-');
-INSERT INTO latin_morpho VALUES (2108,'aethiops','n','aethiop',NULL,NULL,NULL,'n-s---mn3-');
+INSERT INTO latin_morpho VALUES (2104,'Aethiopia','n','Aethiopi',NULL,NULL,NULL,'n-s---fn1-');
+INSERT INTO latin_morpho VALUES (2105,'Aethiopicus','a','Aethiopic Aethiopic Aethiopic',NULL,NULL,'[ae̯.tʰɪˈɔ.pɪ.kʊs]','aps---mn1-');
+INSERT INTO latin_morpho VALUES (2108,'Aethiops','n','Aethiop',NULL,NULL,NULL,'n-s---mn3-');
 INSERT INTO latin_morpho VALUES (2111,'aethra','n','aethr',NULL,NULL,'/ˈae̯.tʰra/','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (2119,'aevum','n','aev',NULL,NULL,'[ˈae̯.wũ]','n-s---nn2-');
 INSERT INTO latin_morpho VALUES (2120,'aevitas','n','aevitat',NULL,NULL,NULL,'n-s---fn3-');
 INSERT INTO latin_morpho VALUES (2127,'Afer','a','Afr',NULL,NULL,NULL,'aps---mn1-');
 INSERT INTO latin_morpho VALUES (2219,'Africa','n','Afric',NULL,NULL,NULL,'n-s---fn1-');
-INSERT INTO latin_morpho VALUES (2221,'Africus','a','Afric',NULL,NULL,'ˈaː.frɪ.kʊs','aps---mn1-');
-INSERT INTO latin_morpho VALUES (2223,'Africanus','a','African',NULL,NULL,'aː.frɪˈkaː.nʊs','aps---mn1-');
+INSERT INTO latin_morpho VALUES (2221,'Africus','a','Afric Afric Afric',NULL,NULL,'ˈaː.frɪ.kʊs','aps---mn1-');
+INSERT INTO latin_morpho VALUES (2223,'Africanus','a','African African African',NULL,NULL,'aː.frɪˈkaː.nʊs','aps---mn1-');
 INSERT INTO latin_morpho VALUES (2224,'ago','v','ag eg act',NULL,NULL,'/ˈa.ɡoː/','v1spia--3-');
 INSERT INTO latin_morpho VALUES (2230,'agaricum','n','agaric',NULL,NULL,'/aˈɡa.ri.kum/','n-s---nn2-');
 INSERT INTO latin_morpho VALUES (2231,'agaso','n','agason',NULL,NULL,'/aˈɡaː.soː/','n-s---mn3-');
@@ -658,7 +658,7 @@ INSERT INTO latin_morpho VALUES (2868,'amarantus','n','amarant',NULL,NULL,NULL,'
 INSERT INTO latin_morpho VALUES (2876,'amaritudo','n','amaritudin',NULL,NULL,'[a.maː.rɪˈtuː.doː]','n-s---fn3-');
 INSERT INTO latin_morpho VALUES (2883,'amasius','n','amasi',NULL,NULL,'[aˈmaː.si.ʊs]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (2888,'amatus','a','amat amat amat',NULL,NULL,'/aˈmaː.tus/','aps---mn1-');
-INSERT INTO latin_morpho VALUES (2900,'amazon','n','am',NULL,NULL,NULL,'n-s---fn3-');
+INSERT INTO latin_morpho VALUES (2900,'Amazon','n','Amazon',NULL,NULL,NULL,'n-s---fn3-');
 INSERT INTO latin_morpho VALUES (2905,'ambages','n','ambag',NULL,NULL,'/amˈbaː.ɡeːs/','n-s---fn3-');
 INSERT INTO latin_morpho VALUES (2907,'ambago','n','ambagin',NULL,NULL,NULL,'n-s---fn3-');
 INSERT INTO latin_morpho VALUES (2910,'ambedo','v','ambes - -',NULL,NULL,'[ˈam.bɛ.doː]','v1spia--3-');
@@ -862,7 +862,7 @@ INSERT INTO latin_morpho VALUES (3985,'apocope','n','apocop',NULL,NULL,NULL,'n-s
 INSERT INTO latin_morpho VALUES (3991,'apodicticus','a','apodictic apodictic apodictic',NULL,NULL,'[a.pɔˈdiːk.tɪ.kʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (3992,'apodixis','n','apodix',NULL,NULL,NULL,'n-s---fn3-');
 INSERT INTO latin_morpho VALUES (3997,'apographon','n','apograph',NULL,NULL,NULL,'n-s---nn2-');
-INSERT INTO latin_morpho VALUES (4005,'apollo','n','apollin',NULL,NULL,NULL,'n-s---mn3-');
+INSERT INTO latin_morpho VALUES (4005,'Apollo','n','Apollin',NULL,NULL,NULL,'n-s---mn3-');
 INSERT INTO latin_morpho VALUES (4006,'apologus','n','apolog',NULL,NULL,NULL,'n-s---mn2-');
 INSERT INTO latin_morpho VALUES (4007,'apologo','v','apolog apologav apologat',NULL,NULL,'/aˈpo.lo.ɡoː/','v1spia--1-');
 INSERT INTO latin_morpho VALUES (4010,'apologia','n','apologi',NULL,NULL,NULL,'n-s---fn1-');
@@ -976,10 +976,10 @@ INSERT INTO latin_morpho VALUES (4598,'arduitas','n','arduitat',NULL,NULL,'[arˈ
 INSERT INTO latin_morpho VALUES (4600,'area','n','are',NULL,NULL,'/ˈaː.re.a/','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (4622,'aresco','v','aresc aru -',NULL,NULL,'/aːˈreːs.koː/','v1spia--3-');
 INSERT INTO latin_morpho VALUES (4633,'argentum','n','argent',NULL,NULL,'[arˈɡɛn.tũ]','n-s---nn2-');
-INSERT INTO latin_morpho VALUES (4634,'argentaria','n','argentari',NULL,NULL,NULL,'n-s---fn1-');
+INSERT INTO latin_morpho VALUES (4634,'argentaria','n','argentari',NULL,NULL,'[ar.ɡɛnˈtaː.ri.a]','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (4635,'argentarius','n','argentari',NULL,NULL,'[ar.ɡɛnˈtaː.ri.ʊs]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (4638,'argentarius','a','argentari argentari argentari',NULL,NULL,'[ar.ɡɛnˈtaː.ri.ʊs]','aps---mn1-');
-INSERT INTO latin_morpho VALUES (4646,'argentoratus','n','argentorat',NULL,NULL,NULL,'n-s---mn2-');
+INSERT INTO latin_morpho VALUES (4646,'Argentoratus','n','Argentorat',NULL,NULL,NULL,'n-s---mn2-');
 INSERT INTO latin_morpho VALUES (4649,'argilla','n','argill',NULL,NULL,'[arˈɡɪl.la]','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (4650,'argillaceus','a','argillace argillace argillace',NULL,NULL,'[ar.ɡɪlˈlaː.ke.ʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (4655,'arguo','v','argu argu argut',NULL,NULL,'[ˈar.ɡʊ.oː]','v1spia--3-');
@@ -1200,7 +1200,7 @@ INSERT INTO latin_morpho VALUES (5682,'auspex','n','auspic',NULL,NULL,'[ˈau̯s.
 INSERT INTO latin_morpho VALUES (5689,'auspicatus','a','auspicat auspicat auspicat',NULL,NULL,'[au̯s.pɪˈkaː.tʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (5691,'auspicium','n','auspici',NULL,NULL,'[au̯sˈpɪ.ki.ũ]','n-s---nn2-');
 INSERT INTO latin_morpho VALUES (5693,'austerus','a','auster austeri austerri',NULL,NULL,'[au̯sˈteː.rʊs]','aps---mn1-');
-INSERT INTO latin_morpho VALUES (5695,'auster','n','austr',NULL,NULL,'[ˈau̯s.tɛr]','n-s---mn2-');
+INSERT INTO latin_morpho VALUES (5695,'Auster','n','Auster',NULL,NULL,'[ˈau̯s.tɛr]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (5699,'austeritas','n','austeritat',NULL,NULL,'[au̯sˈteː.rɪ.taːs]','n-s---fn3-');
 INSERT INTO latin_morpho VALUES (5703,'australis','a','austral austral austral',NULL,NULL,'[au̯sˈtraː.lɪs]','aps---cn3-');
 INSERT INTO latin_morpho VALUES (5706,'austrinus','a','austrin austrin austrin',NULL,NULL,'[au̯sˈtriː.nʊs]','aps---mn1-');
@@ -1238,7 +1238,7 @@ INSERT INTO latin_morpho VALUES (5855,'avocamentum','n','avocament',NULL,NULL,'[
 INSERT INTO latin_morpho VALUES (5874,'axilla','n','axill',NULL,NULL,'[akˈsɪl.la]','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (5877,'axioma','n','axiomat',NULL,NULL,'[ak.sɪˈoː.ma]','n-s---nn3-');
 INSERT INTO latin_morpho VALUES (5878,'axis','n','ax',NULL,NULL,'[ˈak.sɪs]','n-s---mn3-');
-INSERT INTO latin_morpho VALUES (5910,'babylon','n','ba',NULL,NULL,NULL,'n-s---fn3-');
+INSERT INTO latin_morpho VALUES (5910,'Babylon','n','Babylon',NULL,NULL,NULL,'n-s---fn3-');
 INSERT INTO latin_morpho VALUES (5921,'bacca','n','bacc',NULL,NULL,'/ˈbaːk.ka/','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (5931,'Bacchus','n','Bacch',NULL,NULL,NULL,'n-s---mn1-');
 INSERT INTO latin_morpho VALUES (5967,'baculum','n','bacul',NULL,NULL,'[ˈba.kʊ.ɫũ]','n-s---nn2-');
@@ -1359,7 +1359,7 @@ INSERT INTO latin_morpho VALUES (6772,'bonum','n','bon',NULL,NULL,'[ˈbɔ.nũ]',
 INSERT INTO latin_morpho VALUES (6773,'bonus','a','bon bon bon','acs---mn3-=melior acs---fn3-=melior acs---nn3-=melius ass---mn1-=optimus ass---fn1-=optima ass---nn1-=optimum',NULL,'[ˈbɔ.nʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (6777,'bonitas','n','bonitat',NULL,NULL,'/ˈbo.ni.taːs/','n-s---fn3-');
 INSERT INTO latin_morpho VALUES (6778,'Bononia','n','Bononi',NULL,NULL,NULL,'n-s---fn1-');
-INSERT INTO latin_morpho VALUES (6783,'boreas','n','bore',NULL,NULL,NULL,'n-s---mn1-');
+INSERT INTO latin_morpho VALUES (6783,'Boreas','n','Bore',NULL,NULL,NULL,'n-s---mn1-');
 INSERT INTO latin_morpho VALUES (6784,'boreus','a','bore bore bore',NULL,NULL,NULL,'aps---mn1-');
 INSERT INTO latin_morpho VALUES (6785,'borealis','a','boreal boreal boreal',NULL,NULL,'[bɔ.rɛˈaː.lɪs]','aps---cn3-');
 INSERT INTO latin_morpho VALUES (6792,'borrio','v','borr borriv borrit',NULL,NULL,NULL,'v1spia--3i');
@@ -1384,7 +1384,7 @@ INSERT INTO latin_morpho VALUES (6938,'Britannicus','a',NULL,NULL,NULL,NULL,'aps
 INSERT INTO latin_morpho VALUES (6958,'bruchus','n','bruch',NULL,NULL,'[ˈbruː.kʰʊs]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (6959,'bruma','n','brum',NULL,NULL,'/ˈbruː.ma/','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (6960,'brumalis','a','brumal brumal brumal',NULL,NULL,'[bruːˈmaː.lɪs]','aps---cn3-');
-INSERT INTO latin_morpho VALUES (6967,'brutus','n','brut',NULL,NULL,'[ˈbruː.tʊs]','n-s---mn4-');
+INSERT INTO latin_morpho VALUES (6967,'Brutus','n','Brut',NULL,NULL,'[ˈbruː.tʊs]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (6969,'brutus','a','brut brut brut',NULL,NULL,'[ˈbruː.tʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (6982,'bubalus','n','bubal',NULL,NULL,'[ˈbuː.ba.ɫʊs]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (6996,'bubulus','a','bubul bubul bubul',NULL,NULL,'[ˈbuː.bʊ.ɫʊs]','aps---mn1-');
@@ -1544,7 +1544,7 @@ INSERT INTO latin_morpho VALUES (7962,'capillitium','n','capilliti',NULL,NULL,NU
 INSERT INTO latin_morpho VALUES (7970,'capistrum','n','capistr',NULL,NULL,'[kaˈpɪs.trũ]','n-s---nn2-');
 INSERT INTO latin_morpho VALUES (7971,'capistro','v','capistr capistrav capistrat',NULL,NULL,NULL,'v1spia--1-');
 INSERT INTO latin_morpho VALUES (7976,'capitalis','a','capital capital capital',NULL,NULL,'[ka.pɪˈtaː.lɪs]','aps---cn3-');
-INSERT INTO latin_morpho VALUES (7994,'capitolium','n','capitoli',NULL,NULL,NULL,'n-s---nn2-');
+INSERT INTO latin_morpho VALUES (7994,'Capitolium','n','Capitoli',NULL,NULL,NULL,'n-s---nn2-');
 INSERT INTO latin_morpho VALUES (7997,'capitulum','n','capitul',NULL,NULL,'[kaˈpi.tu.lũ]','n-s---nn2-');
 INSERT INTO latin_morpho VALUES (8014,'capo','n','capon',NULL,NULL,'/ˈkaː.poː/','n-s---mn3-');
 INSERT INTO latin_morpho VALUES (8017,'capparis','n','cappar',NULL,'n-s---nn3-=cappari',NULL,'n-s---nn3-');
@@ -1648,7 +1648,7 @@ INSERT INTO latin_morpho VALUES (8557,'cathedra','n','cathedr',NULL,NULL,'[ˈka.
 INSERT INTO latin_morpho VALUES (8572,'catholicus','a','catholic catholic catholic',NULL,NULL,'[kaˈtʰɔ.lɪ.kʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (8573,'catholice','r',NULL,NULL,NULL,NULL,'rp--------');
 INSERT INTO latin_morpho VALUES (8576,'catillus','n','catill',NULL,NULL,'[kaˈtɪl.lʊs]','n-s---mn2-');
-INSERT INTO latin_morpho VALUES (8588,'cato','n','cat',NULL,NULL,'/ˈka.toː/','n-s---mn3-');
+INSERT INTO latin_morpho VALUES (8588,'Cato','n','Caton',NULL,NULL,'/ˈka.toː/','n-s---mn3-');
 INSERT INTO latin_morpho VALUES (8590,'catocha','n','catoch',NULL,NULL,NULL,'n-s---fn1-');
 INSERT INTO latin_morpho VALUES (8600,'cattus','n','catt',NULL,NULL,'[ˈkat.tʊs]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (8602,'catulus','n','catul',NULL,NULL,NULL,'n-s---mn2-');
@@ -1753,7 +1753,7 @@ INSERT INTO latin_morpho VALUES (9285,'character','n','character',NULL,NULL,'[k�
 INSERT INTO latin_morpho VALUES (9291,'charisma','n','charismat',NULL,NULL,NULL,'n-s---nn3-');
 INSERT INTO latin_morpho VALUES (9303,'charta','n','chart',NULL,NULL,'/ˈkʰar.ta/','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (9304,'chartus','n','chart',NULL,NULL,NULL,'n-s---mn2-');
-INSERT INTO latin_morpho VALUES (9316,'charybdis','n','charybd',NULL,NULL,'[kʰaˈrʏb.dɪs]','n-s---fn3-');
+INSERT INTO latin_morpho VALUES (9316,'Charybdis','n','Charybd',NULL,NULL,'[kʰaˈrʏb.dɪs]','n-s---fn3-');
 INSERT INTO latin_morpho VALUES (9318,'chasma','n','chasmat',NULL,NULL,NULL,'n-s---nn3-');
 INSERT INTO latin_morpho VALUES (9319,'chasmatias','n','chasmati',NULL,NULL,NULL,'n-s---mn1-');
 INSERT INTO latin_morpho VALUES (9320,'chele','n','chel',NULL,NULL,'[ˈkʰeː.ɫeː]','n-s---fn1-');
@@ -2878,7 +2878,7 @@ INSERT INTO latin_morpho VALUES (14892,'cupa','n','cup',NULL,NULL,'/ˈkuː.pa/',
 INSERT INTO latin_morpho VALUES (14895,'cuparius','n','cupari',NULL,NULL,NULL,'n-s---mn2-');
 INSERT INTO latin_morpho VALUES (14902,'cupio','v','cup cupiv cupit',NULL,NULL,'[ˈkʊ.pi.oː]','v1spia--3i');
 INSERT INTO latin_morpho VALUES (14903,'cupidus','a','cupid cupid cupid',NULL,NULL,'[ˈkʊ.pɪ.dʊs]','aps---mn1-');
-INSERT INTO latin_morpho VALUES (14907,'cupido','n','cupidin',NULL,NULL,'[kʊˈpiː.doː]','n-s---mn3-');
+INSERT INTO latin_morpho VALUES (14907,'Cupido','n','Cupidin',NULL,NULL,'[kʊˈpiː.doː]','n-s---mn3-');
 INSERT INTO latin_morpho VALUES (14910,'cupienter','r',NULL,NULL,NULL,NULL,'rp--------');
 INSERT INTO latin_morpho VALUES (14942,'cur','r',NULL,NULL,NULL,'/kuːr/','rp--------');
 INSERT INTO latin_morpho VALUES (14943,'cura','n','cur',NULL,NULL,'/ˈkuː.ra/','n-s---fn1-');
@@ -2925,7 +2925,7 @@ INSERT INTO latin_morpho VALUES (15235,'dactylicus','a','dactylic dactylic dacty
 INSERT INTO latin_morpho VALUES (15243,'daemon','n','daemon',NULL,NULL,'[ˈdae̯.mõ]','n-s---mn3-');
 INSERT INTO latin_morpho VALUES (15245,'daemonion','n','daemoni',NULL,NULL,NULL,'n-s---nn2-');
 INSERT INTO latin_morpho VALUES (15256,'damalio','n','damalion',NULL,NULL,NULL,'n-s---mn3-');
-INSERT INTO latin_morpho VALUES (15258,'damascos','n','damasc',NULL,NULL,NULL,'n-s---mn2-');
+INSERT INTO latin_morpho VALUES (15258,'Damascos','n','Damasc',NULL,NULL,NULL,'n-s---mn2-');
 INSERT INTO latin_morpho VALUES (15265,'damma','n','damm',NULL,NULL,NULL,'n-s---fn1-');
 INSERT INTO latin_morpho VALUES (15267,'damnum','n','damn',NULL,NULL,'[ˈdam.nũ]','n-s---nn2-');
 INSERT INTO latin_morpho VALUES (15268,'damno','v','damn damnav damnat',NULL,NULL,NULL,'v1spia--1-');
@@ -3403,7 +3403,7 @@ INSERT INTO latin_morpho VALUES (16920,'dictator','n','dictator',NULL,NULL,'[dɪ
 INSERT INTO latin_morpho VALUES (16922,'dictatura','n','dictatur',NULL,NULL,'[dɪk.taːˈtuː.ra]','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (16924,'dictio','n','diction',NULL,NULL,'[ˈdɪk.ti.oː]','n-s---fn3-');
 INSERT INTO latin_morpho VALUES (16929,'dido','v','did didid didit',NULL,NULL,'/ˈdiː.doː/','v1spia--3-');
-INSERT INTO latin_morpho VALUES (16932,'dido','n','di',NULL,NULL,'/ˈdiː.doː/','n-s---fn3-');
+INSERT INTO latin_morpho VALUES (16932,'Dido','n','Didon',NULL,NULL,'/ˈdiː.doː/','n-s---fn3-');
 INSERT INTO latin_morpho VALUES (16938,'diduco','v','diduc didux diduct',NULL,NULL,'/diːˈduː.koː/','v1spia--3-');
 INSERT INTO latin_morpho VALUES (16950,'diffamo','v','diffam diffamav diffamat',NULL,NULL,'[dɪfˈfaː.moː]','v1spia--1-');
 INSERT INTO latin_morpho VALUES (16953,'differo','v','differ distul dilat','v--pna--3-=differre v2spia--3-=differs v3spia--3-=differt v2ppia--3-=differtis',NULL,'[ˈdɪf.fɛ.roː]','v1spia--3-');
@@ -3618,7 +3618,7 @@ INSERT INTO latin_morpho VALUES (17554,'dracontia','n','draconti',NULL,'n-s---fn
 INSERT INTO latin_morpho VALUES (17556,'dracunculus','n','dracuncul',NULL,NULL,NULL,'n-s---mn2-');
 INSERT INTO latin_morpho VALUES (17564,'dromas','n','dromad',NULL,NULL,NULL,'n-s---mn3-');
 INSERT INTO latin_morpho VALUES (17566,'dromedarius','n','dromedari',NULL,NULL,NULL,'n-s---mn2-');
-INSERT INTO latin_morpho VALUES (17570,'dryas','n',NULL,NULL,NULL,NULL,'n-s---fn3-');
+INSERT INTO latin_morpho VALUES (17570,'Dryas','n','Dryad',NULL,NULL,NULL,'n-s---fn3-');
 INSERT INTO latin_morpho VALUES (17572,'dubium','n','dubi',NULL,NULL,'[ˈdʊ.bi.ũ]','n-s---nn2-');
 INSERT INTO latin_morpho VALUES (17573,'dubius','a','dubi dubi dubi',NULL,NULL,'[ˈdʊ.bi.ʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (17574,'dubietas','n','dubietat',NULL,NULL,'[dʊˈbi.ɛ.taːs]','n-s---fn3-');
@@ -4183,7 +4183,7 @@ INSERT INTO latin_morpho VALUES (19399,'favus','n','fav',NULL,NULL,'[ˈfa.wʊs]'
 INSERT INTO latin_morpho VALUES (19400,'faveo','v','fav fav faut',NULL,NULL,'/ˈfa.we.oː/','v1spia--2-');
 INSERT INTO latin_morpho VALUES (19401,'favilla','n','favill',NULL,NULL,'[faˈwɪl.la]','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (19403,'favisor','n','favisor',NULL,NULL,NULL,'n-s---mn3-');
-INSERT INTO latin_morpho VALUES (19406,'favonius','n','favoni',NULL,NULL,'[faˈwoː.ni.ʊs]','n-s---mn2-');
+INSERT INTO latin_morpho VALUES (19406,'Favonius','n','Favoni',NULL,NULL,'[faˈwoː.ni.ʊs]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (19407,'favor','n','favor',NULL,NULL,'[ˈfa.wɔr]','n-s---mn3-');
 INSERT INTO latin_morpho VALUES (19410,'fax','n','fac',NULL,NULL,'/faks/','n-s---fn3-');
 INSERT INTO latin_morpho VALUES (19421,'fecundus','a','fecund fecund fecund',NULL,NULL,'[feːˈkʊn.dʊs]','aps---mn1-');
@@ -4645,7 +4645,7 @@ INSERT INTO latin_morpho VALUES (20794,'halo','v','hal halav halat',NULL,NULL,'[
 INSERT INTO latin_morpho VALUES (20801,'halitus','n','halit',NULL,NULL,NULL,'n-s---mn4-');
 INSERT INTO latin_morpho VALUES (20810,'hama','n','ham',NULL,NULL,'/ˈha.ma/','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (20811,'hamus','n','ham',NULL,NULL,'[ˈhaː.mʊs]','n-s---mn2-');
-INSERT INTO latin_morpho VALUES (20818,'hannibal','n','hannibal',NULL,NULL,NULL,'n-s---mn3-');
+INSERT INTO latin_morpho VALUES (20818,'Hannibal','n','Hannibal',NULL,NULL,NULL,'n-s---mn3-');
 INSERT INTO latin_morpho VALUES (20820,'hara','n','har',NULL,NULL,'/ˈha.ra/','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (20822,'harena','n','haren',NULL,NULL,'/haˈreː.na/','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (20823,'harenaceus','a','harenace harenace harenace',NULL,NULL,'/ha.reːˈnaː.ke.us/','aps---mn1-');
@@ -4677,13 +4677,13 @@ INSERT INTO latin_morpho VALUES (20956,'hemisphaerium','n','hemisphaeri',NULL,NU
 INSERT INTO latin_morpho VALUES (20971,'herba','n','herb',NULL,NULL,'[ˈhɛr.ba]','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (20976,'herbidus','a','herbid herbid herbid',NULL,NULL,'[ˈhɛr.bɪ.dʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (20980,'herbosus','a','herbos herbos herbos',NULL,NULL,'/herˈboː.sus/','aps---mn1-');
-INSERT INTO latin_morpho VALUES (20986,'hercules','n','hercul',NULL,NULL,NULL,'n-s---mn3-');
+INSERT INTO latin_morpho VALUES (20986,'Hercules','n','hercul',NULL,NULL,NULL,'n-s---mn3-');
 INSERT INTO latin_morpho VALUES (20988,'heredito','v','heredit hereditav hereditat',NULL,NULL,'[heːˈreː.dɪ.toː]','v1spia--1-');
 INSERT INTO latin_morpho VALUES (20990,'hereditas','n','hereditat',NULL,NULL,'[heːˈreː.dɪ.taːs]','n-s---fn3-');
 INSERT INTO latin_morpho VALUES (20995,'heres','n','hered',NULL,NULL,'/ˈheː.reːs/','n-s---cn3-');
 INSERT INTO latin_morpho VALUES (21001,'hermaphroditus','n','hermaphrodit',NULL,NULL,NULL,'n-s---mn2-');
 INSERT INTO latin_morpho VALUES (21009,'herous','a','hero hero hero',NULL,NULL,'[heːˈroː.ʊs]','aps---mn1-');
-INSERT INTO latin_morpho VALUES (21010,'herodes','n','her',NULL,NULL,NULL,'n-s---mn3-');
+INSERT INTO latin_morpho VALUES (21010,'Herodes','n','Herod',NULL,NULL,NULL,'n-s---mn3-');
 INSERT INTO latin_morpho VALUES (21012,'herodio','n','herodion',NULL,NULL,NULL,'n-s---mn3-');
 INSERT INTO latin_morpho VALUES (21013,'heroicus','a','heroic heroic heroic',NULL,NULL,'[heːˈroː.ɪ.kʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (21017,'heroine','n','heroin',NULL,NULL,NULL,'n-s---fn1-');
@@ -4699,8 +4699,8 @@ INSERT INTO latin_morpho VALUES (21062,'hic','r',NULL,NULL,NULL,'[hɪk], also [h
 INSERT INTO latin_morpho VALUES (21063,'hiemo','v','hiem hiemav hiemat',NULL,NULL,'/ˈhi.e.moː/','v1spia--1-');
 INSERT INTO latin_morpho VALUES (21064,'hiemalis','a','hiemal hiemal hiemal',NULL,NULL,'[hi.ɛˈmaː.lɪs]','aps---cn3-');
 INSERT INTO latin_morpho VALUES (21066,'hiemps','n','hiem',NULL,NULL,NULL,'n-s---fn3-');
-INSERT INTO latin_morpho VALUES (21079,'hierosolyma','n','hier',NULL,NULL,NULL,'n-s---fn3-');
-INSERT INTO latin_morpho VALUES (21083,'hierusalem','n','hier',NULL,NULL,NULL,'n-s---nn3-');
+INSERT INTO latin_morpho VALUES (21079,'Hierosolyma','n','Hierosolym',NULL,NULL,NULL,'n-s---fn1-');
+INSERT INTO latin_morpho VALUES (21083,'Hierusalem','n','Hierusalem',NULL,NULL,NULL,'n-s---nn--');
 INSERT INTO latin_morpho VALUES (21085,'hilarus','a','hilar hilar hilar',NULL,NULL,'[ˈhɪ.ɫa.rʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (21087,'hilaro','v','hilar hilarav hilarat',NULL,NULL,'[ˈhɪ.ɫa.roː]','v1spia--1-');
 INSERT INTO latin_morpho VALUES (21092,'hilaritas','n','hilaritat',NULL,NULL,'[hɪˈɫa.rɪ.taːs]','n-s---fn3-');
@@ -4714,7 +4714,7 @@ INSERT INTO latin_morpho VALUES (21121,'hirtus','a','hirt hirt hirt',NULL,NULL,'
 INSERT INTO latin_morpho VALUES (21122,'hirudo','n','hirudin',NULL,NULL,'[hɪˈruː.doː]','n-s---fn3-');
 INSERT INTO latin_morpho VALUES (21124,'hirundo','n','hirundin',NULL,NULL,'[hɪˈrʊn.doː]','n-s---fn3-');
 INSERT INTO latin_morpho VALUES (21125,'hisco','v','hisc - -',NULL,NULL,'/ˈhiːs.koː/','v1spia--3-');
-INSERT INTO latin_morpho VALUES (21130,'hispania','n','hispani',NULL,NULL,NULL,'n-s---fn3-');
+INSERT INTO latin_morpho VALUES (21130,'Hispania','n','Hispani',NULL,NULL,NULL,'n-s---fn1-');
 INSERT INTO latin_morpho VALUES (21131,'hispidus','a','hispid hispid hispid',NULL,NULL,'[ˈhɪs.pɪ.dʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (21134,'historia','n','histori',NULL,NULL,'[hɪsˈtɔ.ri.a]','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (21135,'historialis','a','historial historial historial',NULL,NULL,NULL,'aps---cn3-');
@@ -5398,7 +5398,7 @@ INSERT INTO latin_morpho VALUES (23508,'irroro','v','irror irrorav irrorat',NULL
 INSERT INTO latin_morpho VALUES (23511,'irruo','v','irru irru -',NULL,NULL,'[ˈɪr.rʊ.oː]','v1spia--3-');
 INSERT INTO latin_morpho VALUES (23517,'irrumpo','v','irrump irrup irrupt',NULL,NULL,'[ɪrˈrʊm.poː]','v1spia--3-');
 INSERT INTO latin_morpho VALUES (23518,'irruptio','n','irruption',NULL,'n-s---fn3-=inruptio',NULL,'n-s---fn3-');
-INSERT INTO latin_morpho VALUES (23528,'israel','n','israel',NULL,NULL,NULL,'n-s---mn3-');
+INSERT INTO latin_morpho VALUES (23528,'Israel','n','Israel',NULL,NULL,NULL,'n-s---mn3-');
 INSERT INTO latin_morpho VALUES (23548,'itus','n','it',NULL,NULL,'[ˈɪ.tʊs]','n-s---mn4-');
 INSERT INTO latin_morpho VALUES (23549,'ita','r',NULL,NULL,NULL,'[ˈɪ.ta]','rp--------');
 INSERT INTO latin_morpho VALUES (23552,'Italia','n','Itali',NULL,NULL,NULL,'n-s---fn1-');
@@ -5856,7 +5856,7 @@ INSERT INTO latin_morpho VALUES (25075,'maturo','v','matur maturav maturat',NULL
 INSERT INTO latin_morpho VALUES (25076,'maturus','a','matur matur matur',NULL,NULL,'/maːˈtuː.rus/','aps---mn1-');
 INSERT INTO latin_morpho VALUES (25078,'mature','r',NULL,NULL,NULL,NULL,'rp--------');
 INSERT INTO latin_morpho VALUES (25080,'maturitas','n','maturitat',NULL,NULL,NULL,'n-s---fn3-');
-INSERT INTO latin_morpho VALUES (25086,'mausoleum','n','mausole',NULL,NULL,NULL,'n-s---nn2-');
+INSERT INTO latin_morpho VALUES (25086,'Mausoleum','n','mausole',NULL,NULL,NULL,'n-s---nn2-');
 INSERT INTO latin_morpho VALUES (25087,'Mavors','n','Mavort',NULL,NULL,NULL,'n-s---mn3-');
 INSERT INTO latin_morpho VALUES (25089,'maxilla','n','maxill',NULL,NULL,'[makˈsɪl.la]','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (25092,'maxime','r',NULL,NULL,NULL,'[ˈmak.sɪ.meː]','rp--------');
@@ -6218,7 +6218,7 @@ INSERT INTO latin_morpho VALUES (26188,'nequam','a',NULL,NULL,NULL,'[ˈneː.kʷ�
 INSERT INTO latin_morpho VALUES (26197,'nequiquam','r',NULL,NULL,'rp--------=necquicquam rp--------=nequidquam rp--------=nequicquam','[neːˈkᶣiː.kʷã]','rp--------');
 INSERT INTO latin_morpho VALUES (26200,'nequiter','r',NULL,NULL,NULL,NULL,'rp--------');
 INSERT INTO latin_morpho VALUES (26201,'nequitia','n','nequiti',NULL,NULL,'[neːˈkᶣɪ.ti.a]','n-s---fn1-');
-INSERT INTO latin_morpho VALUES (26203,'nero','n','neron',NULL,NULL,NULL,'n-s---mn3-');
+INSERT INTO latin_morpho VALUES (26203,'Nero','n','Neron',NULL,NULL,NULL,'n-s---mn3-');
 INSERT INTO latin_morpho VALUES (26205,'nervus','n','nerv',NULL,NULL,'[ˈnɛr.wʊs]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (26211,'nescius','a','nesci nesci nesci',NULL,NULL,'[ˈnɛs.ki.ʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (26226,'nex','n','nex',NULL,NULL,'[nɛks]','n-s---fn3-');
@@ -6603,7 +6603,7 @@ INSERT INTO latin_morpho VALUES (27556,'pango','v','pang pepig pact',NULL,NULL,'
 INSERT INTO latin_morpho VALUES (27565,'panis','n','pan',NULL,NULL,'[ˈpaː.nɪs]','n-s---mn3-');
 INSERT INTO latin_morpho VALUES (27566,'pannus','n','pann',NULL,NULL,'[ˈpan.nʊs]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (27574,'pantex','n','pantic',NULL,NULL,'[ˈpan.tɛks]','n-s---mn3-');
-INSERT INTO latin_morpho VALUES (27577,'pantheon','n','panthe','n-s---na2-=pantheon',NULL,NULL,'n-s---nn2-');
+INSERT INTO latin_morpho VALUES (27577,'Pantheon','n','Panthe','n-s---na2-=Pantheon',NULL,NULL,'n-s---nn2-');
 INSERT INTO latin_morpho VALUES (27584,'papa','n','pap',NULL,NULL,'/ˈpaː.pa/','n-s---mn1-');
 INSERT INTO latin_morpho VALUES (27591,'papaver','n','papaver',NULL,NULL,NULL,'n-s---nn3-');
 INSERT INTO latin_morpho VALUES (27593,'papilio','n','papilion',NULL,NULL,'[paːˈpɪ.li.oː]','n-s---mn3-');
@@ -6650,7 +6650,7 @@ INSERT INTO latin_morpho VALUES (27739,'parturio','v','partur parturiv -',NULL,N
 INSERT INTO latin_morpho VALUES (27742,'parvus','a','parv parv parv','acs---cn3-=minor ass---mn1-=minimus',NULL,'[ˈpar.wʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (27745,'parvitas','n','parvitat',NULL,NULL,'[ˈpar.wɪ.taːs]','n-s---fn3-');
 INSERT INTO latin_morpho VALUES (27750,'pasco','v','pasc pav past',NULL,NULL,'/ˈpaːs.koː/','v1spia--3-');
-INSERT INTO latin_morpho VALUES (27751,'pascha','n','pasch',NULL,NULL,'/ˈpas.kʰa/','n-s---fn1-');
+INSERT INTO latin_morpho VALUES (27751,'Pascha','n','pasch',NULL,NULL,'/ˈpas.kʰa/','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (27753,'pascua','n','pascu',NULL,NULL,NULL,'n-s---fn1-');
 INSERT INTO latin_morpho VALUES (27754,'pascuum','n','pascu',NULL,NULL,NULL,'n-s---nn2-');
 INSERT INTO latin_morpho VALUES (27757,'passus','n','pass',NULL,NULL,NULL,'n-s---mn4-');
@@ -6826,7 +6826,7 @@ INSERT INTO latin_morpho VALUES (28485,'persecutor','n','persecutor',NULL,NULL,'
 INSERT INTO latin_morpho VALUES (28489,'persequor','v','persequ persecut -',NULL,NULL,'[ˈpɛr.sɛ.kʷɔr]','v1spid--3-');
 INSERT INTO latin_morpho VALUES (28491,'persevero','v','persever perseverav perseverat',NULL,NULL,'[pɛr.sɛˈweː.roː]','v1spia--1-');
 INSERT INTO latin_morpho VALUES (28494,'perseverantia','n','perseveranti',NULL,NULL,NULL,'n-s---fn1-');
-INSERT INTO latin_morpho VALUES (28496,'persicus','a',NULL,NULL,NULL,'[ˈpɛr.sɪ.kʊs]','aps---mn1-');
+INSERT INTO latin_morpho VALUES (28496,'Persicus','a',NULL,NULL,NULL,'[ˈpɛr.sɪ.kʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (28505,'persolvo','v','persolv persolv persolut',NULL,NULL,'Hyphenation: per‧sol‧vō','v1spia--3-');
 INSERT INTO latin_morpho VALUES (28506,'persona','n','person',NULL,NULL,'[pɛrˈsoː.na]','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (28507,'persono','v','person personu personit',NULL,NULL,'[ˈpɛr.sɔ.noː]','v1spia--1-');
@@ -7964,7 +7964,7 @@ INSERT INTO latin_morpho VALUES (32602,'scopulus','n','scopul',NULL,NULL,'[ˈsk�
 INSERT INTO latin_morpho VALUES (32607,'scorpios','n','scorpi',NULL,NULL,NULL,'n-s---mn2-');
 INSERT INTO latin_morpho VALUES (32609,'scorpio','n','scorpion',NULL,NULL,'[ˈskɔr.pi.oː]','n-s---mn3-');
 INSERT INTO latin_morpho VALUES (32610,'scortum','n','scort',NULL,NULL,'[ˈskɔr.tũ]','n-s---nn2-');
-INSERT INTO latin_morpho VALUES (32617,'scotia','n',NULL,NULL,NULL,'[ˈskɔ.ti.a]','n-s---fn1-');
+INSERT INTO latin_morpho VALUES (32617,'Scotia','n','Scoti',NULL,NULL,'[ˈskɔ.ti.a]','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (32621,'scriba','n','scrib',NULL,NULL,'/ˈskriː.ba/','n-s---mn1-');
 INSERT INTO latin_morpho VALUES (32622,'scribo','v','scrib scrips script',NULL,NULL,'/ˈskriː.boː/','v1spia--3-');
 INSERT INTO latin_morpho VALUES (32625,'scrinium','n','scrini',NULL,NULL,'[ˈskriː.ni.ũ]','n-s---nn2-');
@@ -8900,7 +8900,7 @@ INSERT INTO latin_morpho VALUES (36551,'vaticinatio','n','vaticination',NULL,NUL
 INSERT INTO latin_morpho VALUES (36552,'vaticinator','n','vaticinator',NULL,NULL,NULL,'n-s---mn3-');
 INSERT INTO latin_morpho VALUES (36553,'vaticinium','n','vaticini',NULL,NULL,NULL,'n-s---nn2-');
 INSERT INTO latin_morpho VALUES (36556,'vatillum','n','vatill',NULL,NULL,NULL,'n-s---nn2-');
-INSERT INTO latin_morpho VALUES (36561,'vecors','a','vecord vecord vecord',NULL,NULL,'[ˈweː.kɔrs]','aps---cn3-');
+INSERT INTO latin_morpho VALUES (36561,'vecors','a','vecord vecord vecord',NULL,NULL,'[ˈweː.kɔrs]','aps---an3-');
 INSERT INTO latin_morpho VALUES (36562,'vecto','v','vect vectav vectat',NULL,NULL,'[ˈwɛk.toː]','v1spia--1-');
 INSERT INTO latin_morpho VALUES (36563,'vectigal','n','vectigal',NULL,NULL,NULL,'n-s---nn3-');
 INSERT INTO latin_morpho VALUES (36566,'vectis','n','vect',NULL,NULL,'[ˈwɛk.tɪs]','n-s---mn3-');
@@ -9110,7 +9110,7 @@ INSERT INTO latin_morpho VALUES (37238,'voracitas','n','voracitat',NULL,NULL,'[w
 INSERT INTO latin_morpho VALUES (37240,'vorago','n','voragin',NULL,NULL,'[wɔˈraː.ɡoː]','n-s---fn3-');
 INSERT INTO latin_morpho VALUES (37249,'votum','n','vot',NULL,NULL,NULL,'n-s---nn2-');
 INSERT INTO latin_morpho VALUES (37253,'vox','n','voc',NULL,NULL,'/woːks/','n-s---fn3-');
-INSERT INTO latin_morpho VALUES (37255,'Vulcanus','n','vulcan',NULL,NULL,NULL,'n-s---mn2-');
+INSERT INTO latin_morpho VALUES (37255,'Vulcanus','n','Vulcan',NULL,NULL,NULL,'n-s---mn2-');
 INSERT INTO latin_morpho VALUES (37257,'vulgus','n','vulg',NULL,NULL,'[ˈwʊɫ.ɡʊs]','n-s---nn2-');
 INSERT INTO latin_morpho VALUES (37258,'vulgo','v','vulg vulgav vulgat',NULL,NULL,'[ˈwʊɫ.ɡoː]','v1spia--1-');
 INSERT INTO latin_morpho VALUES (37259,'vulgaris','a','vulgar vulgar vulgar',NULL,NULL,'[wʊɫˈɡaː.rɪs]','aps---cn3-');
@@ -9128,7 +9128,7 @@ INSERT INTO latin_morpho VALUES (37293,'xiphias','n','xiphi',NULL,NULL,'[ˈksɪ.
 INSERT INTO latin_morpho VALUES (37302,'zabulus','n','zabul',NULL,NULL,'[ˈzaː.bʊ.ɫʊs]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (37305,'zelus','n','zel',NULL,NULL,'[ˈzeː.ɫʊs]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (37309,'zelotypia','n','zelotypi',NULL,NULL,'[zeː.ɫɔˈtʏ.pi.a]','n-s---fn1-');
-INSERT INTO latin_morpho VALUES (37311,'Zephyrus','n','zephyr',NULL,NULL,'[ˈzɛ.pʰʏ.rʊs]','n-s---mn2-');
+INSERT INTO latin_morpho VALUES (37311,'Zephyrus','n','Zephyr',NULL,NULL,'[ˈzɛ.pʰʏ.rʊs]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (37317,'zizania','n','zizani',NULL,NULL,'/ziːˈza.ni.a/','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (37328,'zodiacus','n','zodiac',NULL,NULL,'[zoːˈdi.a.kʊs]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (37329,'zona','n','zon',NULL,NULL,'/ˈzoː.na/','n-s---fn1-');
@@ -9136,3 +9136,4 @@ INSERT INTO latin_morpho VALUES (37341,'deterius','r',NULL,NULL,NULL,NULL,'rc---
 INSERT INTO latin_morpho VALUES (37356,'commemini','v','commemin -',NULL,NULL,'[kɔmˈmɛ.mɪ.niː]','v1spia--3-');
 INSERT INTO latin_morpho VALUES (37360,'deterior','a',NULL,NULL,NULL,'[deːˈtɛ.ri.ɔr]','acs---mn3-');
 INSERT INTO latin_morpho VALUES (37365,'odi','v','od -',NULL,NULL,'/ˈoː.diː/','v1spia--3-');
+INSERT INTO latin_morpho VALUES (37366,'Creta','n','Cret',NULL,NULL,NULL,'n-s---fn1-');
