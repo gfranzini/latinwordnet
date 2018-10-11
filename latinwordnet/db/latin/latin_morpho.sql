@@ -1919,7 +1919,7 @@ INSERT INTO latin_morpho VALUES (10340,'clima','n','climat',NULL,NULL,'[ˈklɪ.m
 INSERT INTO latin_morpho VALUES (10367,'clipeo','v','clip clipeav clipeat',NULL,'v1spia--1-=clypeo v--pna--1-=clypeare v1sria--1-=clypeavi v-srppmn1-=clypeatus v-srppfn1-=clypeata v-srppnn1-=clypeatum v1spia--1-=clupeo v--pna--1-=clupeare v1sria--1-=clupeavi v-srppmn1-=clupeatus v-srppfn1-=clupeata v-srppnn1-=clupeatum',NULL,'v1spia--1-');
 INSERT INTO latin_morpho VALUES (10374,'clivus','n','cliv',NULL,NULL,'[ˈkliː.wʊs]','n-s---mn2-');
 INSERT INTO latin_morpho VALUES (10386,'cloaca','n','cloac',NULL,NULL,'/kloˈaː.ka/','n-s---fn1-');
-INSERT INTO latin_morpho VALUES (10404,'clostellum','n','clostell',NULL,'n-s---nn2-=claustellum',NULL,'n-s---nn2-');
+INSERT INTO latin_morpho VALUES (10404,'claustellum','n','claustell',NULL,'n-s---nn2-=clostellum',NULL,'n-s---nn2-');
 INSERT INTO latin_morpho VALUES (10428,'clunis','n','clun',NULL,NULL,'[ˈkɫuː.nɪs]','n-s---cn3-');
 INSERT INTO latin_morpho VALUES (10460,'clyster','n','clyster',NULL,NULL,NULL,'n-s---mn3-');
 INSERT INTO latin_morpho VALUES (10479,'cnodax','n','cnodac',NULL,NULL,NULL,'n-s---mn3-');
@@ -6826,7 +6826,7 @@ INSERT INTO latin_morpho VALUES (28485,'persecutor','n','persecutor',NULL,NULL,'
 INSERT INTO latin_morpho VALUES (28489,'persequor','v','persequ persecut -',NULL,NULL,'[ˈpɛr.sɛ.kʷɔr]','v1spid--3-');
 INSERT INTO latin_morpho VALUES (28491,'persevero','v','persever perseverav perseverat',NULL,NULL,'[pɛr.sɛˈweː.roː]','v1spia--1-');
 INSERT INTO latin_morpho VALUES (28494,'perseverantia','n','perseveranti',NULL,NULL,NULL,'n-s---fn1-');
-INSERT INTO latin_morpho VALUES (28496,'Persicus','a',NULL,NULL,NULL,'[ˈpɛr.sɪ.kʊs]','aps---mn1-');
+INSERT INTO latin_morpho VALUES (28496,'Persicus','a','Persic Persic Persic',NULL,NULL,'[ˈpɛr.sɪ.kʊs]','aps---mn1-');
 INSERT INTO latin_morpho VALUES (28505,'persolvo','v','persolv persolv persolut',NULL,NULL,'Hyphenation: per‧sol‧vō','v1spia--3-');
 INSERT INTO latin_morpho VALUES (28506,'persona','n','person',NULL,NULL,'[pɛrˈsoː.na]','n-s---fn1-');
 INSERT INTO latin_morpho VALUES (28507,'persono','v','person personu personit',NULL,NULL,'[ˈpɛr.sɔ.noː]','v1spia--1-');
@@ -7003,7 +7003,7 @@ INSERT INTO latin_morpho VALUES (29150,'pollicitor','v','pollicit pollicitat -',
 INSERT INTO latin_morpho VALUES (29151,'pollicitatio','n','pollicitation',NULL,NULL,NULL,'n-s---fn3-');
 INSERT INTO latin_morpho VALUES (29154,'polluo','v','pollu polluu polluit',NULL,NULL,'[ˈpɔl.lʊ.oː]','v1spia--3-');
 INSERT INTO latin_morpho VALUES (29156,'polluceo','v','polluc pollux polluct',NULL,NULL,'[pɔlˈluː.ke.oː]','v1spia--2-');
-INSERT INTO latin_morpho VALUES (29162,'pollux','n','poll',NULL,NULL,NULL,'n-s---mn3-');
+INSERT INTO latin_morpho VALUES (29162,'Pollux','n','Polluc',NULL,NULL,NULL,'n-s---mn3-');
 INSERT INTO latin_morpho VALUES (29180,'pomus','n','pom',NULL,NULL,NULL,'n-s---fn2-');
 INSERT INTO latin_morpho VALUES (29181,'pomum','n','pom',NULL,NULL,'[ˈpoː.mũ]','n-s---nn2-');
 INSERT INTO latin_morpho VALUES (29183,'pomarium','n','pomari',NULL,NULL,NULL,'n-s---nn2-');
