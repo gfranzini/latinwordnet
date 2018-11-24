@@ -22,7 +22,7 @@ You will need to do the same for the English and Italian synset databases:
 ```
 To make full use of the semantic data that is included in the MultiWordNet, you will also want to compile the list of common relations and semfield hierarchy:
 ```
->>> compile('common', 'relations', 'semfield', 'semfield_hierarchy')
+>>> compile('common', 'relation', 'semfield', 'semfield_hierarchy')
 ```
 
 ### Basic usage
