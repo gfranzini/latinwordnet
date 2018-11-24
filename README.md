@@ -39,6 +39,6 @@ To make full use of the semantic data that is included in the MultiWordNet, you 
 ...
 
 >>> synset = LWN.get_synset('n#07462736')  # you can find a synset directly, if you know its offset ID
->>> synset.lemmas
+>>> synset.words
 ...
 ```
