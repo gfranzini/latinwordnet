@@ -6273,7 +6273,7 @@ INSERT INTO italian_synset VALUES ('n#06675773',' antiparticella ',NULL,NULL);
 INSERT INTO italian_synset VALUES ('n#N0000073',' antipastiera ',NULL,NULL);
 INSERT INTO italian_synset VALUES ('n#05637439',' antipasto hors-d''_oeuvre ',NULL,NULL);
 INSERT INTO italian_synset VALUES ('n#05576323',' antipatia ',NULL,NULL);
-INSERT INTO italian_synset VALUES ('n#05577305',' antipatia avversione contrarietà disgusto fobia idiosincrasia renitenza repugnanza ripugnanza ',NULL,'"provare contrarietà nei confronti di"');
+INSERT INTO italian_synset VALUES ('n#05577305',' antipatia avversione contrarietà disgusto fobia idiosincrasia renitenza repugnanza ripugnanza ',NULL,'"provare contrarietà nei confronti di"');
 INSERT INTO italian_synset VALUES ('r#00215884',' antipaticamente sgradevolmente spiacevolmente ',NULL,NULL);
 INSERT INTO italian_synset VALUES ('n#06956899',' antipatico ',NULL,'un apersona che non è simpatca');
 INSERT INTO italian_synset VALUES ('n#07453274',' attaccabottoni empiastro gonfiatore impiastro importuno martellatore noia ossessione peste piaga piattola rogna rompicazzo rompicoglioni rompimento rompiscatole rompitasche rottorio scocciatore seccatore vescicante ',NULL,'"sei un gran rompimento"');
@@ -35648,7 +35648,7 @@ INSERT INTO italian_synset VALUES ('n#04036899',' libertà_civile ',NULL,NULL);
 INSERT INTO italian_synset VALUES ('n#04037453',' libertà_di_stampa ',NULL,NULL);
 INSERT INTO italian_synset VALUES ('n#04037215',' libertà_di_religione ',NULL,'libertà di professare la propria religione');
 INSERT INTO italian_synset VALUES ('n#04037335',' libertà_di_parola libertà_di_espressione ',NULL,'libertà di esprimere le proprie opinioni');
-INSERT INTO italian_synset VALUES ('n#04037574',' libertà_di_riunione ',NULL,'diritto di riunirsi liberamente, senza necessità di autorizzazione preventiva, per qualsiasi motivo (politico, sindacale, religioso, culturale), purché la riunione avvenga pacificamente e senza luso di armi');
+INSERT INTO italian_synset VALUES ('n#04037574',' libertà_di_riunione ',NULL,'diritto di riunirsi liberamente, senza necessità di autorizzazione preventiva, per qualsiasi motivo (politico, sindacale, religioso, culturale), purché la riunione avvenga pacificamente e senza luso di armi');
 INSERT INTO italian_synset VALUES ('n#04038033',' diritto_a_un_giusto_processo diritto_al_giusto_processo ',NULL,NULL);
 INSERT INTO italian_synset VALUES ('n#04035825',' diritto_alla_libertà ',NULL,NULL);
 INSERT INTO italian_synset VALUES ('a#01840657',' senza_meta senza_direzione alla_deriva ',NULL,'"un viaggio senza meta"; "movimento caotico e disordinato, senza direzione"; "nave alla deriva"');
